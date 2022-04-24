@@ -1,1 +1,1 @@
-
+Editando texto para fazer o pull do arquivo para o repositório local.
